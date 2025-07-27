@@ -1,2 +1,2 @@
-h1,h2{padding:20px 0}.cont,h1,h2{margin:0 auto;text-align:center!important}.cont{display:flex;flex-wrap:wrap;}button{flex-basis:calc(33.333% - 20px);flex-grow:1;flex-shrink:1;height:100px;text-align:center}.inp{height:50px;width:100%}.btn,.inp{margin:50px}.btn{background-color:coral;color:#fff}.flex{background:#cfdd11;height:100vh}
+h1,h2{padding:20px 0}.cont,h1,h2{margin:0 auto;text-align:center!important}.cont{display:flex;flex-wrap:wrap;width:50%}button{flex-basis:calc(33.333% - 20px);flex-grow:1;flex-shrink:1;height:100px;text-align:center}.inp{height:50px;width:100%}.btn,.inp{margin:50px}.btn{background-color:coral;color:#fff}.flex{background:#cfdd11;height:100vh}
 /*# sourceMappingURL=main.202194d1.css.map*/
